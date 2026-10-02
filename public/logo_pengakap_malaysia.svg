@@ -1,0 +1,53 @@
+<svg viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="250" cy="250" r="248" fill="#151272" />
+  <circle cx="250" cy="250" r="198" stroke="#ffffff" stroke-width="12" fill="none" />
+  <g fill="#ffffff">
+    <path d="M 250,70 C 240,115 198,175 200,230 C 200,248 208,264 220,274 C 230,282 245,286 250,286 C 255,286 270,282 280,274 C 292,264 300,248 300,230 C 302,175 260,115 250,70 Z" />
+    <path d="M 248,118 L 252,118 L 252,225 L 248,225 Z" fill="#151272" />
+    <path d="M 215,268 C 175,255 118,240 120,175 C 120,135 158,138 180,165 C 192,180 190,210 206,226 C 214,235 224,244 235,252 C 222,258 217,264 215,268 Z" />
+    <path d="M 285,268 C 325,255 382,240 380,175 C 380,135 342,138 320,165 C 308,180 310,210 294,226 C 286,235 276,244 265,252 C 278,258 283,264 285,268 Z" />
+    <rect x="206" y="272" width="88" height="18" rx="6" fill="#ffffff" />
+    <rect x="210" y="275" width="80" height="12" rx="4" fill="#151272" />
+    <rect x="214" y="278" width="72" height="6" rx="2" fill="#ffffff" />
+    <path d="M 226,290 C 220,318 192,336 174,345 C 196,354 228,342 240,314 Z" fill="#ffffff" />
+    <path d="M 274,290 C 280,318 308,336 326,345 C 304,354 272,342 260,314 Z" fill="#ffffff" />
+    <path d="M 244,290 L 256,290 L 250,378 Z" fill="#ffffff" />
+    <path d="M 248,300 L 252,300 L 250,360 Z" fill="#151272" />
+    <path d="M 156,275 C 152,340 192,414 250,414 C 308,414 348,340 344,275 C 334,352 296,388 250,388 C 204,388 166,352 156,275 Z" fill="#ffffff" />
+  </g>
+  <g transform="translate(152, 222) rotate(-8)">
+    <polygon points="0,-16 4.7,-4.9 16.5,-4.9 7.1,2.8 10.7,14.4 0,7.3 -10.7,14.4 -7.1,2.8 -16.5,-4.9 -4.7,-4.9" fill="#ffffff" stroke="#151272" stroke-width="2.5" />
+    <polygon points="0,-10 3,-3 10,-3 4.5,2 7,9 0,4.5 -7,9 -4.5,2 -10,-3 -3,-3" fill="#151272" />
+  </g>
+  <g transform="translate(348, 222) rotate(8)">
+    <polygon points="0,-16 4.7,-4.9 16.5,-4.9 7.1,2.8 10.7,14.4 0,7.3 -10.7,14.4 -7.1,2.8 -16.5,-4.9 -4.7,-4.9" fill="#ffffff" stroke="#151272" stroke-width="2.5" />
+    <polygon points="0,-10 3,-3 10,-3 4.5,2 7,9 0,4.5 -7,9 -4.5,2 -10,-3 -3,-3" fill="#151272" />
+  </g>
+  <g transform="translate(250, 228)">
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(25.71)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(51.42)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(77.14)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(102.85)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(128.57)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(154.28)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(180)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(205.71)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(231.42)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(257.14)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(282.85)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(308.57)" />
+    <polygon points="0,-44 3,-18 -3,-18" fill="#ffffff" transform="rotate(334.28)" />
+    <circle cx="0" cy="0" r="18" fill="#151272" />
+    <circle cx="0" cy="0" r="12" fill="#ffffff" />
+    <circle cx="0" cy="0" r="6" fill="#151272" />
+  </g>
+  <g stroke="#ffffff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 174,444 C 210,444 218,432 238,426" />
+    <path d="M 326,444 C 290,444 282,432 262,426" />
+    <path d="M 230,418 C 216,424 216,448 238,452 C 255,456 270,446 276,432" />
+    <path d="M 270,418 C 284,424 284,448 262,452 C 245,456 230,446 224,432" />
+    <path d="M 172,444 L 210,444" />
+    <path d="M 328,444 L 290,444" />
+  </g>
+</svg>

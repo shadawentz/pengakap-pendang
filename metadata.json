@@ -1,0 +1,8 @@
+{
+  "name": "Remix ScoutPass - Digital Scout Membership Card Portal",
+  "description": "Discreet scout ID verification and digital membership card portal with high-resolution PDF download, exact CR80 physical card printing, and bulk Excel data upload for organizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
